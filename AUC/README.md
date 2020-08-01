@@ -2,4 +2,4 @@
 - Run Summary_AUC.m (main function)
 - A sample figure
 
-![alt text](./img/AUC.png)
+![alt text](./AUC.png)
