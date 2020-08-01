@@ -3,11 +3,6 @@
 
 - Part of this toolbox was used for the study published in _Cell Reports_ ([Ahn et al., 2019](https://www.sciencedirect.com/science/article/pii/S221112471930172X#undfig1))
 
-
-![Graphical Abstract]
-(https://ars.els-cdn.com/content/image/1-s2.0-S221112471930172X-fx1_lrg.jpg)
-
-
-
+![alt text](https://ars.els-cdn.com/content/image/1-s2.0-S221112471930172X-fx1_lrg.jpg)
 
 - Email jaerongahn@gmail.com for questions
