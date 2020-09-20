@@ -1,5 +1,5 @@
 %% By Jaerong (2015/09/30)
-%% Check the sensor information
+%% visualize the sensor timestamps for 
 
 clc;
 
@@ -75,12 +75,10 @@ title(session_folder); xlabel('Time(s)'); ylabel('Trial #'); xlim([0 20])
 hold off
 
 
-
 str= findstr(fig_name,'\');
 fig_name = fig_name(str(end)+1: end);
 
 cd(saveROOT);
-% saveImage(picID,fig_name,fig_pos);
 saveas(picID,fig_name);
 
 close all;
